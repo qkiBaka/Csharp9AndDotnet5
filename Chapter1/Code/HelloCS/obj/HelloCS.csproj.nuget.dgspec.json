@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Synchro\\Nauka\\CSharpLearn\\Code\\Chapter01\\HelloCS\\HelloCS.csproj": {}
+    "D:\\Synchro\\Nauka\\CSharpLearn\\Chapter1\\Code\\HelloCS\\HelloCS.csproj": {}
   },
   "projects": {
-    "D:\\Synchro\\Nauka\\CSharpLearn\\Code\\Chapter01\\HelloCS\\HelloCS.csproj": {
+    "D:\\Synchro\\Nauka\\CSharpLearn\\Chapter1\\Code\\HelloCS\\HelloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Synchro\\Nauka\\CSharpLearn\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "projectUniqueName": "D:\\Synchro\\Nauka\\CSharpLearn\\Chapter1\\Code\\HelloCS\\HelloCS.csproj",
         "projectName": "HelloCS",
-        "projectPath": "D:\\Synchro\\Nauka\\CSharpLearn\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "projectPath": "D:\\Synchro\\Nauka\\CSharpLearn\\Chapter1\\Code\\HelloCS\\HelloCS.csproj",
         "packagesPath": "C:\\Users\\Kam\\.nuget\\packages\\",
-        "outputPath": "D:\\Synchro\\Nauka\\CSharpLearn\\Code\\Chapter01\\HelloCS\\obj\\",
+        "outputPath": "D:\\Synchro\\Nauka\\CSharpLearn\\Chapter1\\Code\\HelloCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

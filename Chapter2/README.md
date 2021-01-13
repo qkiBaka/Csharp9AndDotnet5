@@ -19,12 +19,12 @@ use @ at beginning:
 for example: string filePath = @"C:\televisions\sony\bravia.txt";  
 
 ## Numbers
-**Int16 (aka short)** signed int with 16bits
-**Int32 (aka int)** signed int with 32bits
-**Int64 (aka long)** signed int with 64bits
-**Single (aka float)** floating point 32 bit
-**Double (aka double)** floating point 64 bit
-**Decimal (aka decimal)** floating point 128 bit
+**Int16 (aka short)** signed int with 16bits  
+**Int32 (aka int)** signed int with 32bits  
+**Int64 (aka long)** signed int with 64bits  
+**Single (aka float)** floating point 32 bit  
+**Double (aka double)** floating point 64 bit  
+**Decimal (aka decimal)** floating point 128 bit  
 
 Use  
 **int** for whole numbers  
@@ -36,11 +36,12 @@ Double - for speed; Decimal - for precision
 ## Floating point types:
 Store numbers as exponent and mantissa and may have round errors
 Binary:  
+uses base2 math
 https://csharpindepth.com/Articles/FloatingPoint  
 **double** 
 Double precision
 64 bits
-Sign (s, 1 bit),Stored exponent (e, 11 bits),Mantissa (m, 52 bits)
+Sign (s, 1 bit),Stored exponent (e, 11 bits),Mantissa (m, 52 bits)  
 **float** 
 32 bits
 Sign (s, 1 bit),Stored exponent (e, 8 bits),Mantissa (m, 23 bits)
@@ -56,9 +57,12 @@ Mantissa: 0111001101101101001001001000010101110011000100100011
 
 **decimal**  
 https://csharpindepth.com/Articles/Decimal  
-128bits  
+consumes 128bits although only 102 is used, 128bits because it is treated as 4 integers
 uses base10 math
-(-1)^0 x 1.0111001101101101001001001000010101110011000100100011 (binary) x **10**^(1028-1023)
+Sign: 1 bit
+Exponent: 5 bits
+Mantissa: 96 bits
+(-1)^sign x mantissa / **10**^exponent
 
 ## Other types:
 **object** 

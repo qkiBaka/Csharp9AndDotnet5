@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VoyzjT7DvcVIFsRia2ZcGA5vQlJ2DHHSRGBtqT8i8OnL0dPbDtopqiNiPQeH5mlBYRYSs2M73IBuKIXWC1uQ+w==",
+  "dgSpecHash": "x4i3/Vk+R5wMkOMEDGb2sOZXbhycLCvmeDOfgJ0BR8An0s7442LkBz1cwF1/nbumkFJjs8gqtbtDiHPDI/KoyA==",
   "success": true,
-  "projectFilePath": "D:\\Synchro\\Nauka\\CSharpLearn\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "projectFilePath": "D:\\Synchro\\Nauka\\CSharpLearn\\Chapter1\\Code\\HelloCS\\HelloCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
