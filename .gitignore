@@ -1,1 +1,4 @@
 *.pdf
+*.epub
+**/bin
+**/obj

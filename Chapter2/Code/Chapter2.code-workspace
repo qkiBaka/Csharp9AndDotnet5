@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "Chapter2",
+			"path": ".."
+		},
+		{
+			"name": "Basics",
+			"path": "Basics"
+		},
+		{
+			"name": "Numbers",
+			"path": "Numbers"
+		},
+		{
+			"name": "Variables",
+			"path": "Variables"
+		},
+		{
+			"name": "Arrays",
+			"path": "Arrays"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "MoreConsoleUsage"
+		},
+		{
+			"path": "Exercise02"
+		}
+	],
+	"settings": {}
+}
