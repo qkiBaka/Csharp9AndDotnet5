@@ -85,3 +85,12 @@ Place this code in  checked{} block.
 
 Write FizzBuzz:
 Players take turns to count incrementally, replacing any number divisible by three with the word fizz, any number divisible by five with the word buzz, and any number divisible by both with fizzbuzz.
+
+## Exercise 4
+Asks the user for two numbers in the range 0-255 and then divides the first number by the second. Catch every possible exception.
+
+## Exercise 5
+Test knowledge of operators:
+x = 3;y = 2 + ++x;
+x = 3 << 2;y = 10 >> 1;
+x = 10 & 8;y = 10 | 7;
