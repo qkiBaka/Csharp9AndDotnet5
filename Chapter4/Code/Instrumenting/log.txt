@@ -1,0 +1,3 @@
+Trace says, I as watching!
+Trace error
+Trace warning
